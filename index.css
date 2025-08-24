@@ -1,0 +1,26 @@
+/* This CSS file is for the React build system compatibility */
+/* The actual portfolio styling is embedded in index.php */
+
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  margin: auto;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: #0F0F23;
+  color: #ffffff;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* Note: This portfolio has been converted to pure PHP */
+/* Please access index.php for the main portfolio */
+/* Admin panel is available at backend/admin/login.php */
